@@ -1,6 +1,4 @@
-// As I say yes to life, life says yes to me.
-
-// As I say yes to life, life says yes to me.
+import java.io.File;
 
 package com.atomist;
 
